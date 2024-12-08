@@ -12,7 +12,7 @@ Incialmente, criei o script do vídeo usando o ChatGPT e depois criei o vídeo a
 ## 🚀 Resultados
 [Link do vídeo](https://app.elai.io/v/675510239b7a5e7edfe2a279)
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 O maior desafio foi deixar o vídeo e áudio sincronizados e com uma voz mais natural.
 
 ## Links Interessantes
